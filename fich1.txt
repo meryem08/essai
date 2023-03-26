@@ -1,0 +1,3 @@
+c est une modification
+du fichier 
+fich1.txt
